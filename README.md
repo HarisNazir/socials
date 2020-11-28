@@ -1,2 +1,2 @@
 # socials
-Video Chat Web Application
+Online Social "Room" Platform
